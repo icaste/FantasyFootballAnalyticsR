@@ -1,9 +1,6 @@
 ###########################
 # File: Yahoo Weekly Projections.R
 # Description: Downloads Fantasy Football Projections from yahoo.com
-# Date: 8/21/2014
-# Edited by: Michael Griebe (michaelgriebe@gmail.com)
-# Notes: Adapted from Isaac Petersen (isaac@fantasyfootballanalytics.net)
 # To do:
 ###########################
 #Load libraries
